@@ -1,2 +1,2 @@
-# Applicant
+# Applican
 Application Tracker
